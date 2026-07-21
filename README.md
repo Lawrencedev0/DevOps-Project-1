@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DevOps-Project-1
 Java
 =======
@@ -524,14 +523,12 @@ mvn test
 
 ## 🛠️ Author & Community
 
-This project is maintained by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.
+This project is maintained by **[Lawrencedev0](https://github.com/Lawrencedev0)** 💡.
 Your feedback and contributions are welcome!
 
 📧 **Connect with me:**
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguytech.com)
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)
-- **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)
+- **GitHub**: [@Lawrencedev0](https://github.com/Lawrencedev0)
+- **LinkedIn**: [chukwu chibuike daniel](https://www.linkedin.com/in/chukwu-daniel/)
 
 ---
 
@@ -542,10 +539,5 @@ If you found this project helpful, please consider:
 - **Sharing** it with your network
 - **Contributing** to its improvement
 
-### 📢 Stay Connected
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
-
 > [!Important]
 > This documentation is continuously evolving. For the latest updates, please check the repository regularly.
->>>>>>> 436a991 (Initial commit)
